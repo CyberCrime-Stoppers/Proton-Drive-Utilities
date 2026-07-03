@@ -10,7 +10,7 @@ This app is Opened Sourced and the source code is accessable and readable at any
 
 if you want to be safe using this App and to get truted updates - just download from my Guthub Page.
 
-also you cannot login to your Proton AG Account using this app you must use the Native App that Proton AG has built for their customers Proton-Drive client -- https://proton.me/blog/proton-drive-cli --
+Note: you cannot login to your Proton AG Account using this app you must use the Native App that Proton AG has built for their customers Proton-Drive client -- https://proton.me/blog/proton-drive-cli --
 
 in the sense you know that your in control of your data and whats transited over the internet - the developer has no desire on accessing or collect anything. source code is available to read any time.
 
