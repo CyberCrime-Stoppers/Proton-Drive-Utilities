@@ -23,7 +23,5 @@ in the sense you know that your in control of your data and whats transmited ove
 
 Thank You! If you want to buy me a coffee you can. you can support me any time.  
 
-If you like to give me ideas on what to add - anything can help to better this app. for all linux users. Thank You!
-
-giving on ideas -
+If you like to give me ideas on what to add - anything can help to better this app. for all linux users!
 you can always email me: give-me-ideas@mailservices2.simplelogin.com
