@@ -6,7 +6,7 @@ Released Date: 07/03/2026 [MM/DD/YYYY]
 This is not your typical Proton Drive Native App which is not Native anyways. its more like a utility to easily upload files from your User home Directory: "Documents, Pictures, Videos, Music, Download -etc"
 also there is a drop down menu button which then you can choose to upload a file/folder to your Proton Account Drive.
 
-This app is Opened and the source code read at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
+This app is Opened Sourced and the source code is accessable and readable at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
 
 if you want to be safe using this App and to get truted updates - just download from my Guthub Page.
 
