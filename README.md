@@ -1,6 +1,13 @@
 # proton-drive-utilities
 This is the UnOfficial Proton Drive Utility. which is in beta.
 Released Date: 07/03/2026 [MM/DD/YYYY]
+App: v1.0.0
+Built with Python + GTK4 + Libadwaita
+Opened Sourced & Publicly Available
+
+["Planning a update for users to have ability to have an option to download their file from their Proton Drive Account ."]
+
+
 
 
 This is not your typical Proton Drive Native App which is not Native anyways. its more like a utility to easily upload files from your User home Directory: "Documents, Pictures, Videos, Music, Download -etc"
