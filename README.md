@@ -14,6 +14,6 @@ Note: you cannot login to your Proton AG Account using this app you must use the
 
 in the sense you know that your in control of your data and whats transmited over the internet - the developer has no desire on accessing or collect anything. source code is available to read any time.
 
-Thank You! If you want to by me a coffee you can. you can support me any time. 
+Thank You! If you want to buy me a coffee you can. you can support me any time. 
 
 you can always email me: 
