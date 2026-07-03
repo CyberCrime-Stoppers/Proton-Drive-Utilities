@@ -1,5 +1,6 @@
 # proton-drive-utilities
-This is the UnOfficial Proton Drive Utility. which is in beta and also a way to upload your file/folders to your Proton Drive
+This is the UnOfficial Proton Drive Utility. which is in beta.
+Released Date: 07/03/2026
 
 
 This is not your typical Proton Drive Native App which is not Native anyways - but its a utility to easily upload files and folder. which also has a custom upload in the 3 doted menu bar button which then you can pick any file or folder to back up on to Your Proton Account Drive.
