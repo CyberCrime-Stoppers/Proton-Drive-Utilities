@@ -12,7 +12,7 @@ if you want to be safe using this App and to get truted updates - just download 
 
 Note: you cannot login to your Proton AG Account using this app you must use the Native App that Proton AG has built for their customers Proton-Drive client -- https://proton.me/blog/proton-drive-cli --
 
-in the sense you know that your in control of your data and whats transited over the internet - the developer has no desire on accessing or collect anything. source code is available to read any time.
+in the sense you know that your in control of your data and whats transmited over the internet - the developer has no desire on accessing or collect anything. source code is available to read any time.
 
 Thank You! If you want to by me a coffee you can. you can support me any time. 
 
