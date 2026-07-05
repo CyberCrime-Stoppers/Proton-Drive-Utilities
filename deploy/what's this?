@@ -1,0 +1,15 @@
+what is this script?
+what does it do?
+
+deploys the proper requirement to help this app to work out of the box.
+
+the script makes a directory named ~/logs/
+
+to help app to know where to logs so the user can trouble shoot if anything fails. 
+*drive-download.log 
+*drive-backup.log
+*drive-upload.log
+
+_______________________________________________
+
+also it will help the .py extension to have enabled excute is true in the ui's directory.
