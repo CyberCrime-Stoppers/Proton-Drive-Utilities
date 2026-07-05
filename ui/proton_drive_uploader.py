@@ -40,7 +40,7 @@ class ProtonDriveUploader:
         try:
             result = subprocess.run(
                 [self.binary, "filesystem", "list", remote_path, "--json"],
-                capture_output=True,
+                capture_output=False,
                 text=True,
                 timeout=15
             )

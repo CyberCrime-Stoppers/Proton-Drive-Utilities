@@ -3,6 +3,7 @@ gi.require_version("Gtk", "4.0")
 gi.require_version("Adw", "1")
 from ui.home_page import HomePage
 from ui.upload_page import UploadPage
+from ui.download_page import DownloadPage
 from ui.settings_page import SettingsPage
 from ui.about_page import AboutPage
 from gi.repository import Gtk, Adw, Gio
@@ -48,6 +49,7 @@ class MainWindow(Adw.ApplicationWindow):
         nav_items = [
             ("Home", "home"),
             ("Upload", "upload"),
+            ("Download", "download"),
             ("Settings", "settings"),
             ("About", "about"),
         ]
@@ -60,6 +62,7 @@ class MainWindow(Adw.ApplicationWindow):
         self.pages = {}
         self.pages["home"] = HomePage(on_navigate=self.navigate_to)
         self.pages["upload"] = UploadPage(on_navigate=self.navigate_to)
+        self.pages["download"] = DownloadPage(on_navigate=self.navigate_to)
         self.pages["settings"] = SettingsPage(on_navigate=self.navigate_to)
         self.pages["about"] = AboutPage(on_navigate=self.navigate_to)
 

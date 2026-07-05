@@ -5,7 +5,7 @@ import json
 import os
 
 
-CONFIG_DIR = os.path.expanduser("~/.config/myprivateapp")
+CONFIG_DIR = os.path.expanduser("~/.config/protondrive-utilityapp")
 CONFIG_FILE = os.path.join(CONFIG_DIR, "settings.json")
 
 

@@ -22,23 +22,16 @@ class AboutPage:
         container.append(title)
 
         info = Gtk.Label(label=(
-           "ProtonDrive Utility App v1.0.0\n"
-           "Built with Python + GTK4 + libadwaita\n"
-           "Open Sourced & Publicly Avaliable\n"
-           "\n"
-           "This App is attended to help with Linux\n Users to easily upload their data\n securely by default to Proton Drive Cloud.\n"
-           "\n"
-           "this is an UnOfficial Proton Utility - it's a utility that helps Proton Users to manage their Data through proton drive.\n"
-           "\n"
-           "Businesses/Enterprises can use as well \n Its not a Native App from Proton AG Corp, \n but its directly capitable with Proton-Drive Cli.\n"
-           "\n"
-           "As this app still abides by Proton AG and Europe Protection Pricacy Laws. \n in other words this app is a tool not a\n telemetry collector of any kind \n or things sending back to the developers\n"
-           "\n"
-           "This app is not the gateway to Authenticate with proton.\n only with the native proton-drive cli.\n"
-           "\n"
-           "in order to function properly install and copy the proton-drive cli \n to /usr/bin/proton-drive to \n just get straight on using this app. \n other wise you will need to update the app source code lies on 'proton-drive cli' to your perfered directory"
-           "\n"
-           "Released date. 07/03/2026."
+           "\n ProtonDrive Utility App v1.0.1"
+           "\n Built with Python + GTK4 + libadwaita"
+           "\n Open Sourced & Publicly Avaliable\n"
+           "\n This App is attended to help with \n Linux Users to easily upload their data\n securely by default to Proton Drive Cloud.\n"
+           "\n this is an UnOfficial Proton Utility \n - it's a utility that helps Proton Users \n to manage their Data through proton drive.\n"
+           "\n Businesses/Enterprises can use as \n well Its not a Native App from Proton AG Corp, \n but its directly capitable with Proton-Drive Cli.\n"
+           "\n As this app still abides by Proton AG \n and Europe Protection Pricacy Laws. in other \n words this app is a tool not a telemetry collector of any kind \n or things sending back to the developers\n"
+           "\n This app is not the gateway to Authenticate with proton.\n only with the native proton-drive cli.\n"
+           "\n in order to function properly install \n and copy the proton-drive cli to \n /usr/bin/proton-drive to just get straight \n on using this app. other wise \n you will need to update the \n app source code lies on 'proton-drive cli' \n to your perfered directory\n"
+           "\n Released date. 07/03/2026.\n"
         ))
         info.add_css_class("dim-label")
         container.append(info)
