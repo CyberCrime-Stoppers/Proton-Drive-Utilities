@@ -12,7 +12,7 @@ from gi.repository import Gtk, Adw, Gio
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title("Proton Drive Utility")
+        self.set_title("Proton Drive Utility App")
         self.set_default_size(900, 600)
 
          # ---- Header Bar with Menu Button ----
