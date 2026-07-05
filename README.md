@@ -5,8 +5,6 @@ App: v1.0.1
 Built with Python + GTK4 + Libadwaita
 Opened Sourced & Publicly Available
 
-["Planning on a update for users to have ability to have an option to download their file/folder from cutom windowing system from their Proton Drive Account ."]
-
 
 
 
@@ -27,3 +25,7 @@ If you like to give me ideas on what to add - anything can help to better this a
 you can always email me: 
 
 give-me-ideas@mailservices2.simplelogin.com
+
+\/\/\/\/\/
+["Planning on a update for users to have ability to have an option to download their file/folder from cutom windowing system from their Proton Drive Account ."]
+
