@@ -24,7 +24,7 @@ class HomePage:
         )
 
         title = Gtk.Label(
-            label="<span size='xx-large' font='ital' weight='bold'>\t \nProton Drive Utility</span>"
+            label="<span size='xx-large' font='ital' weight='bold'>\t \nProton Drive Utility App</span>"
         )
         title.set_use_markup(True)
         container.append(title)
