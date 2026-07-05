@@ -12,4 +12,8 @@ to help app to know where to logs so the user can trouble shoot if anything fail
 
 _______________________________________________
 
-also it will help the .py extension to have enabled excute is true in the ui's directory.
+also it will help the .py and .sh extension to have enabled excute is true in the ui's directory.
+
+
+
+also the app will be better supported out of the box if the Proton-Drive Cli bianry file is in /usr/bin/
