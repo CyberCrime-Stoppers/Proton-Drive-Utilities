@@ -12,7 +12,7 @@ from ui.main_window import MainWindow
 
 class MyApp(Adw.Application):
     def __init__(self):
-        super().__init__(application_id="com.proton.me")
+        super().__init__(application_id="com.drive.proton.me")
 
     def do_startup(self):
         Adw.Application.do_startup(self)
