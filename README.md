@@ -5,12 +5,12 @@ App: v1.0.1
 Built with Python + GTK4 + Libadwaita
 Opened Sourced & Publicly Available
 
-["Planning a update for users to have ability to have an option to download their file from their Proton Drive Account ."]
+["Planning on a update for users to have ability to have an option to download their file/folder from cutom windowing system from their Proton Drive Account ."]
 
 
 
 
-This is not your typical Proton Drive Native App which is not Native anyways. its more like a utility to easily upload or download files from/to your User home Directory: "Documents, Pictures, Videos, Music, Download -etc"
+This is not your typical Proton Drive app. its more like a utility to easily upload or download files from/to your User home Directory: "Documents, Pictures, Videos, Music, Download -etc"
 also there is a drop down menu button which then you can choose to upload a file/folder to your Proton Account Drive.
 
 This app is Opened Sourced and the source code is accessable and readable at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
