@@ -38,7 +38,7 @@ class MyApp(Adw.Application):
         app_section.append("New Window", "app.new")
         app_section.append("Open File…", "app.open")
         app_section.append("Preferences", "app.settings")
-        menu.append_submenu("Application", app_section)  # FIXED: variable, not string
+        menu.append_submenu("Application", app_section)
 
         shortcuts_section = Gio.Menu()
         shortcuts_section.append("Keyboard Shortcuts", "app.shortcuts")
