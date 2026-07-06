@@ -11,7 +11,9 @@ class HomePage:
     def __init__(self, on_navigate=None):
         self.on_navigate = on_navigate
 
-    def build(self):
+    def build(self, parent_window=None):
+        self._parent_window = parent_window
+
         container = Gtk.Box(
             orientation=Gtk.Orientation.VERTICAL,
             spacing=20,
@@ -35,7 +37,6 @@ class HomePage:
         subtitle.set_use_markup(True)
         subtitle.add_css_class("dim-label")
         container.append(subtitle)
-
 
         # --- Button: Open a URL ---
         btn_url = Gtk.Button(label="* Github Page")

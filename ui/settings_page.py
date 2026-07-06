@@ -27,14 +27,19 @@ class SettingsPage:
         with open(CONFIG_FILE, "w") as f:
             json.dump(self.config, f, indent=2)
 
-    def build(self):
-        container = Gtk.Box (
+
+    def build(self, parent_window=None):
+        self._parent_window = parent_window
+
+        container = Gtk.Box(
             orientation=Gtk.Orientation.VERTICAL,
-            spacing=16,
-            margin_top=40,
-            margin_bottom=40,
-            margin_start=40,
-            margin_end=40,
+            spacing=20,
+            valign=Gtk.Align.CENTER,
+            halign=Gtk.Align.CENTER,
+            margin_top=20,
+            margin_bottom=20,
+            margin_start=20,
+            margin_end=20,
         )
 
         header = Gtk.Label(label="<span size='x-large' weight='bold'>Settings</span>")
@@ -87,3 +92,5 @@ class SettingsPage:
 
     def _on_username_changed(self, entry):
         self.config["passcode"] = entry.get_text()
+
+
