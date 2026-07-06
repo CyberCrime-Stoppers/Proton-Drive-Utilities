@@ -26,6 +26,3 @@ you can always email me:
 
 give-me-ideas@mailservices2.simplelogin.com
 
-\/\/\/\/\/
-["Planning on a update for users to have ability to have an option to download their file/folder from cutom windowing system from their Proton Drive Account ."]
-
