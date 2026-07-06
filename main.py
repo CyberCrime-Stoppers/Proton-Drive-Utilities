@@ -2,11 +2,12 @@
 import sys
 import os
 import gi
-import subprocess
-import threading
 gi.require_version("Gtk", "4.0")
 gi.require_version("Adw", "1")
 from gi.repository import Gtk, Adw, Gio, GLib
+import subprocess
+import threading
+
 from ui.main_window import MainWindow
 
 
@@ -104,24 +105,7 @@ class MyApp(Adw.Application):
         print("[Menu] Quit triggered")
         self.quit()
 
-    # ===== FILE HANDLING =====
-
-    def _handle_selected_file(self, filepath):
-        """Process the selected file."""
-        print(f"[Processing] Received file: {filepath}")
-
-        if os.path.isfile(filepath):
-            print(f"✓ Valid file detected: {filepath}")
-            # TODO: Insert your upload/backend logic here
-            # e.g., my_uploader.upload(filepath)
-
-        elif os.path.isdir(filepath):
-            print(f"ℹ Directory selected: {filepath}")
-
-        else:
-            print(f"✗ Invalid path: {filepath}")
-
-            # ===== PROTON DRIVE UPLOAD =====
+    # ===== PROTON DRIVE UPLOAD =====
 
     def _handle_selected_file(self, filepath):
         """Process the selected file via Proton Drive CLI."""
@@ -131,8 +115,7 @@ class MyApp(Adw.Application):
             print(f"✗ Invalid path: {filepath}")
             return
 
-        # === change this from a custom upload from the menu bar ===
-        remote_folder = "/my-files/backup"
+        remote_folder = "/my-files/Uploaded"
 
         if os.path.isfile(filepath):
             item_type = "file"
@@ -160,8 +143,10 @@ class MyApp(Adw.Application):
     def _upload_via_cli(self, local_path, remote_folder, item_type):
         """Execute proton-drive CLI upload in a background thread."""
 
-        # Locate the binary
-        cli = "/usr/bin/proton-drive"
+        # Locate the binary (try multiple locations)
+        cli = "./proton-drive"
+        if not os.path.exists(cli):
+            cli = "/usr/local/bin/proton-drive"
         if not os.path.exists(cli):
             cli = "/usr/bin/proton-drive"
         if not os.path.exists(cli):
