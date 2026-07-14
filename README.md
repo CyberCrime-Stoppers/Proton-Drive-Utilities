@@ -9,7 +9,7 @@ Opened Sourced & Publicly Available
 
 
 This is not your typical Proton Drive app. Its a utility to manage your upload or download files from/to your User home Directory: "Documents, Pictures, Videos, Music, Download -etc"
-also there is a drop down menu button which then you can choose to upload a file/folder to your Proton Account Drive. more options to come in the near future.
+in/out your Proton Drive Cloud Account - also there is a drop down menu button which then you can choose to upload a file/folder to your Proton Account Drive. more options to come in the near future.
 
 This app is Opened Sourced and the source code is accessable and readable at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
 
