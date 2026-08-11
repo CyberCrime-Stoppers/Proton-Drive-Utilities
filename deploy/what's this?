@@ -17,3 +17,20 @@ also it will help the .py and .sh extension to have enabled excute is true in th
 
 
 also the app will be better supported out of the box if the Proton-Drive Cli bianry file is in /usr/bin/
+
+
+
+
+# --- Install supported Dependencies ---
+
+# GTK4 + libadwaita libraries
+libgtk-4-dev libadwaita-1-dev
+
+# Python bindings (PyGObject)
+python3-gi python3-gi-cairo gir1.2-gtk-4.0 gir1.2-adwaita-1
+
+# Python basics (pip, venv)
+python3-pip python3-venv
+
+# Optional: file manager integration & icons
+shared-mime-info adwaita-icon-theme
