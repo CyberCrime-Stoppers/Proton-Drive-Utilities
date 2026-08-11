@@ -34,3 +34,6 @@ python3-pip python3-venv
 
 # Optional: file manager integration & icons
 shared-mime-info adwaita-icon-theme
+
+Install the proton drive cli from the Proton AG Website: https://proton.me/blog/proton-drive-cli
+proton-drive = /usr/bin/proton-drive
