@@ -6,14 +6,15 @@ Built with Python + GTK4 + Libadwaita
 Opened Sourced & Publicly Available
 
 
-This is not your typical Proton Drive app. Its a utility to manage your upload or download files from/to your User home Directory: "Documents, Pictures, Videos, Music, Download -etc"
-in/out your Proton Drive Cloud Account - also there is a drop down menu button which then you can choose to upload a file/folder to your Proton Account Drive. more options to come in the near future.
+This is not your typical Proton Drive app. Its a utility to manage your upload or download within the App
 
-This app is Opened Sourced and the source code is accessable and readable at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
+This App is intended to work with the Proton drive cli "binary file". This app can execute commands that are supported, their are plenty of options in the GUI within the app. so you don't have to use the Termanal. there will be more updates with the app and if proton will update the proton drive cli "binary file".
 
-if you want to be safe using this App and to get truted updates - just download from my Guthub Page.
+Great news: This app is Opened Sourced and the source code is accessible and readable at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
 
-Note: you cannot login to your Proton AG Account using this app you must use the Native App that Proton AG has built for their customers Proton-Drive client. which you can find here > -- https://proton.me/blog/proton-drive-cli --
+if you want to be safe using this App and to get truted updates - just download from this Guthub Page.
+
+Note: you cannot login to your Proton AG Account using this app you must use the Native App that Proton AG has built for their customers Proton-Drive client. which you can find here > -- https://proton.me/blog/proton-drive-cli -- "note: May implant that option soon."
 
 in the sense you know that your in control of your data and whats transmited over the internet - the developer has no desire on accessing or collect anything. source code is available to read any time.
 
