@@ -1,7 +1,7 @@
 # proton-drive-utilities
 This is the UnOfficial Proton Drive Utility. which is in beta.
 Released Date: 07/03/2026 [MM/DD/YYYY]
-App: v1.1.4 - updated: 08/12/2026
+App: v1.1.6 - updated: 08/12/2026
 Built with Python + GTK4 + Libadwaita
 Opened Sourced & Publicly Available
 
