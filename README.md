@@ -10,10 +10,7 @@ _________________________________________________________
 
 This is not your typical Proton Drive app. Its a utility to manage your upload or download within the App
 
-<img src="screenshot/home.png" width="150" height="150" alt="Logo">
-
-
-This is not your typical Proton Drive app. Its a utility to manage your upload or download within the App
+<img src="screenshot/home.png" width="800" height="800" alt="Logo">
 
 This App is intended to work with the Proton drive cli "binary file". This app can execute commands that are supported, their are plenty of options in the GUI within the app. so you don't have to use the Termanal. there will be more updates with the app and if proton will update the proton drive cli "binary file".
 
@@ -31,4 +28,21 @@ If you like to give me ideas on what to add - anything can help to better this a
 you can always email me: 
 
 give-me-ideas@mailservices2.simplelogin.com
+
+About page
+
+<img src="screenshot/about.png" width="800" height="800" alt="Logo">
+
+
+Fixed and Default directory Uploads and Downloads from/to your proton drive and linux system.
+
+
+<img src="screenshot/fixed-upload.png" width="800" height="800" alt="Logo">
+<img src="screenshot/fixed-downloads.png" width="800" height="800" alt="Logo">
+
+
+Custom: choose your directory Uploads and Downloads page from/to your proton drive and linux system.
+
+<img src="screenshot/custom-upload.png" width="800" height="800" alt="Logo">
+<img src="screenshot/custom-downloads.png" width="800" height="800" alt="Logo">
 
