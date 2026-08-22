@@ -8,41 +8,97 @@
 
 _________________________________________________________
 
-This is not your typical Proton Drive app. Its a utility to manage your upload or download within the App
+## 🌟 Lists of benefits on why This App exists and use cases.
 
-<img src="screenshot/home.png" width="800" height="800" alt="Logo">
+<mark>The Proton AG team is working hard</mark> to build the official Proton Drive for Linux systems.
 
-This App is intended to work with the Proton drive cli "binary file". This app can execute commands that are supported, their are plenty of options in the GUI within the app. so you don't have to use the Termanal. there will be more updates with the app and if proton will update the proton drive cli "binary file".
+Having a Proton utility app comes with all sorts of benefits:
 
-Great news: This app is Opened Sourced and the source code is accessible and readable at anytime - so you know nothing fishy is running in the background, no telemetry and no data collected by the developer.
+- <strong>📤 Importing/Exporting in and out of your Proton Drive is just a click of a button.
+- <strong>⬇️ A quick way to download everything, rather than using the Proton Drive web interface.
+- <strong>💻 Flexibility for lower-end hardware.
+- <strong>🔄 The ability to download multiple times, so you know your data is always backed up and safe.
+- 
+> 💡 *You can probably think of more amazing uses for this great app.*
+-
+> If and when the Official Proton Drive App has been released by proton AG and their team surely many out there would still use this App.
+of the many benefits listed above. ☝️
 
-if you want to be safe using this App and to get truted updates - just download from this Guthub Page.
+---
 
-Note: you cannot login to your Proton AG Account using this app you must use the Native App that Proton AG has built for their customers Proton-Drive client. which you can find here > -- https://proton.me/blog/proton-drive-cli -- "note: May implant that option soon."
+Thank you, <strong> Proton AG </strong>. The community will love and experiment with this app, developing their own ways of using it and wanting more flexibility with Proton's services.
 
-in the sense you know that your in control of your data and whats transmited over the internet - the developer has no desire on accessing or collect anything. source code is available to read any time.
 
-Thank You! If you want to buy me a coffee you can. you can support me any time.  
+ 
+ - Home Page
+<img src="screenshot/v126/home_page.png" width="600" height="600" alt="Logo">
 
-If you like to give me ideas on what to add - anything can help to better this app. for all linux users!
-you can always email me: 
+## Compatibility
 
+This app is designed to work with the **Proton Drive CLI binary file**. It executes all commands supported by the underlying CLI, with plenty of options accessible through the graphical interface—eliminating the need for terminal usage.
+
+Future updates will roll out for this app, especially whenever Proton AG releases updates to the Proton Drive CLI binary.
+
+## 🔓 Open Source & Privacy
+
+Great news! This app is **open source**, and the source code is accessible and readable at any time—so you know nothing suspicious is running in the background. No telemetry, no data collection by the developer.
+
+If you want to stay safe and receive trusted updates, please download only from this GitHub page.
+
+---
+
+## ⚠️ Important Note
+
+You **cannot** log in to your Proton AG account using this app. You must use the native Proton Drive client that Proton AG has built for their customers, which you can find here:
+
+> 🔗 https://proton.me/blog/proton-drive-cli
+
+> _Note: This option may be implemented in the future._
+
+---
+
+## 🔐 Your Data, Your Control
+
+Rest assured that you are in control of your data and what is transmitted over the internet. The developer has no intention of accessing or collecting anything. The source code is available to read at any time.
+
+---
+
+## ☕ Support the Project
+
+Thank you! If you'd like to buy me a coffee, you can support me anytime.
+
+## 💡 Ideas & Feedback
+
+If you'd like to suggest ideas on what to add—anything helps make this app better for all Linux users! You can always email me at:
+
+<!-- Add your email here -->
 give-me-ideas@mailservices2.simplelogin.com
 
-About page
+## Screenshots of the App
 
-<img src="screenshot/about.png" width="800" height="800" alt="Logo">
+ 
+ - About page
 
-
-Fixed and Default directory Uploads and Downloads from/to your proton drive and linux system.
-
-
-<img src="screenshot/fixed-upload.png" width="800" height="800" alt="Logo">
-<img src="screenshot/fixed-downloads.png" width="800" height="800" alt="Logo">
+<img src="screenshot/v126/about_page.png" width="400" height="400" alt="Logo">
 
 
-Custom: choose your directory Uploads and Downloads page from/to your proton drive and linux system.
+## Custom Fixed directory Uploads and Downloads from/to your proton drive and linux system.
 
-<img src="screenshot/custom-upload.png" width="800" height="800" alt="Logo">
-<img src="screenshot/custom-downloads.png" width="800" height="800" alt="Logo">
+  
+  - Custom fixed documents - uploads page
+<img src="screenshot/v126/custom_fixed_uploader.png" width="400" height="400" alt="Logo">
+
+ 
+  - Custom fixed documents - download page
+<img src="screenshot/v126/custom_fixed_downloader.png" width="400" height="400" alt="Logo">
+
+## Custom: choose your directory Uploads and Downloads page from/to your proton drive and linux system.
+
+ 
+ - Custom documents - uploads page
+<img src="screenshot/v126/custom_upload_documents.png" width="400" height="400" alt="Logo">
+
+ 
+ - Custom documents - downloads page
+<img src="screenshot/v126/custom_download_documents.png" width="400" height="400" alt="Logo">
 
