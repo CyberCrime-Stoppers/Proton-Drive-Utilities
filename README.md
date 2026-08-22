@@ -36,11 +36,6 @@ of the many benefits listed above. ☝️
 
 Thank you, <strong> Proton AG </strong>. The community will love and experiment with this app, developing their own ways of using it and wanting more flexibility with Proton's services.
 
-
- 
- - Home Page
-<img src="screenshot/v126/home_page.png" width="600" height="600" alt="Logo">
-
 ## Compatibility
 
 This app is designed to work with the **Proton Drive CLI binary file**. It executes all commands supported by the underlying CLI, with plenty of options accessible through the graphical interface—eliminating the need for terminal usage.
@@ -81,32 +76,4 @@ If you'd like to suggest ideas on what to add—anything helps make this app bet
 
 <!-- Add your email here -->
 give-me-ideas@mailservices2.simplelogin.com
-
-## Screenshots of the App
-
- 
- - About page
-
-<img src="screenshot/v126/about_page.png" width="400" height="400" alt="Logo">
-
-
-## Custom Fixed directory Uploads and Downloads from/to your proton drive and linux system.
-
-  
-  - Custom fixed documents - uploads page
-<img src="screenshot/v126/custom_fixed_uploader.png" width="400" height="400" alt="Logo">
-
- 
-  - Custom fixed documents - download page
-<img src="screenshot/v126/custom_fixed_downloader.png" width="400" height="400" alt="Logo">
-
-## Custom: choose your directory Uploads and Downloads page from/to your proton drive and linux system.
-
- 
- - Custom documents - uploads page
-<img src="screenshot/v126/custom_upload_documents.png" width="400" height="400" alt="Logo">
-
- 
- - Custom documents - downloads page
-<img src="screenshot/v126/custom_download_documents.png" width="400" height="400" alt="Logo">
 
