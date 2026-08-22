@@ -6,6 +6,10 @@
 - Language: Python + GTK4 + Libadwaita.
 - Opened Sourced & Publicly Available.
 
+## Note: The official Uploads of the app is uploaded to this URL
+
+  - https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App
+    
 _________________________________________________________
 
 ## 🌟 Lists of benefits on why This App exists and use cases.
