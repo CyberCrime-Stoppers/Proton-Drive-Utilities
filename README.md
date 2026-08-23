@@ -2,27 +2,10 @@
 - Unofficial
 - Currently in: Beta.
 - Released Date: 07/03/2026. [MM/DD/YYYY]
-- App version: v1.1.6 - updated: 08/12/2026. [MM/DD/YYYY]
-- App version: v1.2.6 - updated: 08/22/2026. [MM/DD/YYYY]
 - App version: v1.2.7 - updated: 08/23/2026. [MM/DD/YYYY]
 - Language: Python + GTK4 + Libadwaita.
 - Opened Sourced & Publicly Available.
 
-
-# 📁 Archived Repository
-
-> ⚠️ This repository is an **archive** of many versions of the same app—a list of versions open for users to browse.
-
-You can still copy, edit, distribute, and/or release under your own codebase. Feel free to do what you like!
-
----
-
-## 📥 Official Downloads
-
-Note: Official builds of this app are uploaded at:
-
-  - https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App
-    
 _________________________________________________________
 
 ## 🌟 Lists of benefits on why This App exists and use cases.
@@ -59,13 +42,9 @@ If you want to stay safe and receive trusted updates, please download only from 
 
 ---
 
-## ⚠️ Important Note
+## ✅ Yes, you can now login within the App
 
-You **cannot** log in to your Proton AG account using this app. You must use the native Proton Drive client that Proton AG has built for their customers, which you can find here:
-
-> 🔗 https://proton.me/blog/proton-drive-cli
-
-> _Note: This option may be implemented in the future._
+You can now login within the app - Released Version and Date: v1.2.7 - 08/23/2026. [MM/DD/YYYY]
 
 ---
 
@@ -85,4 +64,3 @@ If you'd like to suggest ideas on what to add—anything helps make this app bet
 
 <!-- Add your email here -->
 give-me-ideas@mailservices2.simplelogin.com
-
