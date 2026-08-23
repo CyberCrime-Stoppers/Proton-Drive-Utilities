@@ -32,7 +32,7 @@ of the many benefits listed above. ☝️
 
 ---
 
-Thank you, <strong> Proton AG </strong>. The community will love and experiment with this app, developing their own ways of using it and wanting more flexibility with Proton's services.
+Thank you, <strong> Proton AG </strong>. The community will love and experiment with proton cli, developing their own ways of using it and wanting more flexibility with Proton's services.
 
 ## Compatibility
 
