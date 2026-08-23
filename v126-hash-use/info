@@ -1,1 +1,8 @@
 
+this update is more about security using the scripts - with a technique using direct hash within upload_page.py and download_page.py
+
+hashes are there to make sure if the scripts has changed by any means, the app will not execute the scripts if the scripts are not properly aligned with
+the hashes provided in the *_page.py file.
+
+also main.py has been cleaned up with code that are not needed or just more ways for security valenabilities to happen.
+
