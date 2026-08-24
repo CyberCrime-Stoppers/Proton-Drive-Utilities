@@ -69,4 +69,4 @@ Thank you! If you'd like to buy me a coffee, you can support me anytime.
 If you'd like to suggest ideas on what to add—anything helps make this app better for all Linux users! You can always email me at:
 
 <!-- Add your email here -->
-give-me-ideas@mailservices2.simplelogin.com
+support me giving me ideas. developer.on.opensource@unixinbox.com
