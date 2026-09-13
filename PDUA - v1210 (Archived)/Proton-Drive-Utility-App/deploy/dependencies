@@ -1,0 +1,39 @@
+what is this script?
+what does it do?
+
+deploys the proper requirement to help this app to work out of the box.
+
+the script makes a directory named ~/logs/
+
+to help app to know where to logs so the user can trouble shoot if anything fails. 
+*drive-download.log 
+*drive-backup.log
+*drive-upload.log
+
+_______________________________________________
+
+also it will help the .py and .sh extension to have enabled excute is true in the ui's directory.
+
+
+
+also the app will be better supported out of the box if the Proton-Drive Cli bianry file is in /usr/bin/
+
+
+
+
+# --- Install supported Dependencies ---
+
+# GTK4 + libadwaita libraries
+libgtk-4-dev libadwaita-1-dev
+
+# Python bindings (PyGObject)
+python3-gi python3-gi-cairo gir1.2-gtk-4.0 gir1.2-adwaita-1
+
+# Python basics (pip, venv)
+python3-pip python3-venv
+
+# Optional: file manager integration & icons
+shared-mime-info adwaita-icon-theme
+
+Install the proton drive cli from the Proton AG Website: https://proton.me/blog/proton-drive-cli
+proton-drive = /usr/bin/proton-drive
