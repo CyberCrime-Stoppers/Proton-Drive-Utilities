@@ -8,6 +8,7 @@
 - App version: v1.2.7 - updated: 08/23/2026. [MM/DD/YYYY]
 - App Version: v1.2.8 - updated: 09/07/2026. [MM/DD/YYYY]
 - App Version: v1.2.9 - updated: 09/10/2026. [MM/DD/YYYY]
+- App Version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
 - Language: Python + GTK4 + Libadwaita.
 - Opened Sourced & Publicly Available.
 
@@ -15,6 +16,14 @@ _________________________________________________________
 
 # ! This Repository is a Archived a all versions associated with PDUA (Proton Drive Utility App)
 the url for the current releases - https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App
+
+✅ Yes, you can now View Photos/Albums within the App
+(Still Limited Experience for now until further updates and improvements) You Can say now we have a Proton Drive Photo/Album Management. Without the need to manage Photos/Albums in Web Browser
+
+Albums first look.
+It's just getting started.
+
+Loads whats in the Albums/Photos and you can manage them.
 
 ## 🌟 Lists of benefits on why This App exists and use cases.
 
