@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Proton Drive Utility App
+Comment=GUI for the Proton Drive CLI
+Exec=pdua
+Icon=com.auth2portal.pdua
+Terminal=false
+Categories=Network;FileTransfer;Utility;
