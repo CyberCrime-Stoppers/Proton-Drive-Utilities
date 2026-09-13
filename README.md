@@ -23,7 +23,7 @@ the url for the current releases - https://github.com/CyberCrime-Stoppers/Proton
 Albums first look.
 It's just getting started.
 
-Loading whats in the Albums/Photos
+Loads whats in the Albums/Photos and you can manage them.
 
 ## 🌟 Lists of benefits on why This App exists and use cases.
 
