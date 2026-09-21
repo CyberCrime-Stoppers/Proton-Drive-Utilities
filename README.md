@@ -9,7 +9,9 @@
 - App Version: v1.2.8 - updated: 09/07/2026. [MM/DD/YYYY]
 - App Version: v1.2.9 - updated: 09/10/2026. [MM/DD/YYYY]
 - App Version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
-- Language: Python + GTK4 + Libadwaita.
+- Language: Python | Shell script
+- Standard Libraries: subprocess | threading | os | shutil | webbrowser | subprocess
+- Module(s): GTK4 | Libadwaita
 - Opened Sourced & Publicly Available.
 
 _________________________________________________________
