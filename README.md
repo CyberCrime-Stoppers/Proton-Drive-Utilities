@@ -2,6 +2,13 @@
 - Unofficial
 - Currently in: Beta.
 - Released Date: 07/03/2026. [MM/DD/YYYY]
+- App version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
+- Language: Python | Shell script
+- Standard Libraries: subprocess | threading | os | shutil | webbrowser | subprocess
+- GUI Framework: gi (PyGObject) - _The bridge to access C libraries (GTK, Adw)._
+- Module(s): GTK4 | Libadwaita
+- Opened Sourced & Publicly Available.
+### Version Pack(s)
 - App Version: v1.0.4 - Released: 07/03/2026. [MM/DD/YYYY]
 - App version: v1.1.6 - updated: 08/12/2026. [MM/DD/YYYY]
 - App version: v1.2.6 - updated: 08/22/2026. [MM/DD/YYYY]
@@ -9,11 +16,6 @@
 - App Version: v1.2.8 - updated: 09/07/2026. [MM/DD/YYYY]
 - App Version: v1.2.9 - updated: 09/10/2026. [MM/DD/YYYY]
 - App Version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
-- Language: Python | Shell script
-- Standard Libraries: subprocess | threading | os | shutil | webbrowser | subprocess
-- Module(s): GTK4 | Libadwaita
-- Opened Sourced & Publicly Available.
-
 _________________________________________________________
 
 # ! This Repository is a Archived a all versions associated with PDUA (Proton Drive Utility App)
