@@ -8,7 +8,7 @@
 - GUI Framework: gi (PyGObject) - _The bridge to access C libraries (GTK, Adw)._
 - Module(s): GTK4 | Libadwaita
 - Opened Sourced & Publicly Available.
-### Version Pack(s)
+### Version Packs
 - App Version: v1.0.4 - Released: 07/03/2026. [MM/DD/YYYY]
 - App version: v1.1.6 - updated: 08/12/2026. [MM/DD/YYYY]
 - App version: v1.2.6 - updated: 08/22/2026. [MM/DD/YYYY]
