@@ -1,0 +1,9 @@
+Package: pdua
+Version: 1.2.10
+Architecture: amd64
+Depends: python3, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1
+Recommends: proton-drive
+Maintainer: Scott <developer.on.opensource@unixinbox.com>
+Description: GUI utility for the Proton Drive CLI
+ Unofficial GTK4 frontend wrapping the native Proton Drive
+ command-line client for uploads, downloads and album browsing.
