@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Proton Drive Utility App
+Exec=pdua
+Icon=com.unixinbox.pdua
+Terminal=false
+Categories=Utility;Network;
+Comment=Unofficial GUI for the Proton Drive CLI
