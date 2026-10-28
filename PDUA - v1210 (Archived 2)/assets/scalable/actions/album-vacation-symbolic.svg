@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-    <path fill="#bebebe" d="M1.5 3h4l1.5 2h7.5c0.55 0 1 0.45 1 1v7c0 0.55 -0.45 1 -1 1H1.5c-0.55 0 -1 -0.45 -1 -1V4c0-0.55 0.45-1 1-1z"/>
-    <rect fill="#ffffff" x="4" y="6.5" width="8" height="5" rx="0.5"/>
-    <circle fill="#bebebe" cx="6.2" cy="8.2" r="0.9"/>
-    <path fill="#bebebe" d="M9 10.8 L10.5 7.2 L10.9 7.35 L9.6 10.85 Z M10.3 7.5 q-1.2 -0.3 -1.7 0.5 M10.3 7.5 q0.3 -1 -0.4 -1.6 M10.3 7.5 q1.1 -0.5 1.9 0.1"/>
-</svg>
