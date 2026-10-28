@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <path fill="#bebebe" d="M1.5 3h4l1.5 2h7.5c0.55 0 1 0.45 1 1v7c0 0.55 -0.45 1 -1 1H1.5c-0.55 0 -1 -0.45 -1 -1V4c0-0.55 0.45-1 1-1z"/>
+    <rect fill="#ffffff" x="4" y="6.5" width="8" height="5" rx="0.5"/>
+    <path fill="#bebebe" d="M8 7.2 l1.8 2.4 h-1 l1.2 1.6 h-4 l1.2-1.6 h-1 Z"/>
+    <rect fill="#bebebe" x="7.8" y="11.1" width="0.4" height="0.9"/>
+</svg>

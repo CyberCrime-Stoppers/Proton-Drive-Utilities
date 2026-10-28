@@ -1,0 +1,19 @@
+pdua-app-1.2.10/
+├── DEBIAN/
+│   ├── control
+│   ├── postinst
+│   └── conffiles          (optional, only if you ship user-editable configs)
+├── usr/
+│   ├── bin/
+│   │   └── pdua                 # add launcher shell script
+│   └── share/
+│       ├── pdua/                # the whole Python app lives here
+│       │   ├── main.py
+│       │   ├── ui/
+│       │   ├── assets/
+│       │   ├── scripts/         # the .sh files - shell scripts
+│       │   └── ...
+│       ├── applications/
+│       │   └── com.unixinbox.pdua.desktop  # *.Desktop to launch from desktop and the Applications Dir
+│       └── icons/hicolor/scalable/apps/    # the app icon - logo dir
+│           └── com.unixinbox.pdua.svg      # image file - scripted to .svg
