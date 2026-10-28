@@ -19,6 +19,7 @@
 - App Version: v1.2.8 - updated: 09/07/2026. [MM/DD/YYYY]
 - App Version: v1.2.9 - updated: 09/10/2026. [MM/DD/YYYY]
 - App Version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
+- App Version: v9.3.10-Alpha - updated: 10/27/2026. [MM/DD/YYYY]
 _________________________________________________________
 
 # ! This Repository is a Archived a all versions associated with PDUA (Proton Drive Utility App)
