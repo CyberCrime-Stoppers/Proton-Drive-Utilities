@@ -27,7 +27,7 @@ the url for the current releases - https://github.com/CyberCrime-Stoppers/Proton
 <br>
 <br>
 
-### Alpha Release on the PDUA
+### PDUA - Alpha Release
 
 <br>
 
