@@ -5,7 +5,7 @@
 - Unofficial
 - Currently in: Beta.
 - Released Date: 07/03/2026. [MM/DD/YYYY]
-- App version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
+- App version: v9.3.10-Alpha - updated: 10/27/2026. [MM/DD/YYYY]
 - Language: Python | Shell script
 - Standard Libraries: subprocess | threading | os | shutil | webbrowser | subprocess
 - GUI Framework: gi (PyGObject) - _The bridge to access C libraries (GTK, Adw)._
@@ -19,6 +19,7 @@
 - App Version: v1.2.8 - updated: 09/07/2026. [MM/DD/YYYY]
 - App Version: v1.2.9 - updated: 09/10/2026. [MM/DD/YYYY]
 - App Version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
+- App Version: v9.3.10-Alpha - updated: 10/27/2026. [MM/DD/YYYY]
 _________________________________________________________
 
 # ! This Repository is a Archived a all versions associated with PDUA (Proton Drive Utility App)
@@ -87,4 +88,4 @@ Thank you! If you'd like to buy me a coffee, you can support me anytime.
 If you'd like to suggest ideas on what to add—anything helps make this app better for all Linux users! You can always email me at:
 
 <!-- Add your email here -->
-support me giving me ideas. developer.on.opensource@unixinbox.com
+support me giving me ideas. scott.the.developer@email-me.unixinbox.com
