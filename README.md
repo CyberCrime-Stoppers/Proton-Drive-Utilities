@@ -37,7 +37,7 @@ the url for the current releases - https://github.com/CyberCrime-Stoppers/Proton
  
 - 0 - Sub-Date: 10/28/2026. [MM/DD/YYYY]
 
- > Version Package Number [pd9u3a0] 0
+ > Version Package Number [pd9u3a0]
  
  <br>
  
