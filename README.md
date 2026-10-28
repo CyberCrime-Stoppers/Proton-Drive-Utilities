@@ -5,7 +5,7 @@
 - Unofficial
 - Currently in: Beta.
 - Released Date: 07/03/2026. [MM/DD/YYYY]
-- App version: v1.2.10 - updated: 09/13/2026. [MM/DD/YYYY]
+- App version: v9.3.10-Alpha - updated: 10/27/2026. [MM/DD/YYYY]
 - Language: Python | Shell script
 - Standard Libraries: subprocess | threading | os | shutil | webbrowser | subprocess
 - GUI Framework: gi (PyGObject) - _The bridge to access C libraries (GTK, Adw)._
