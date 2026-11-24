@@ -32,6 +32,7 @@ the url for the current releases - https://github.com/CyberCrime-Stoppers/Proton
 <br>
 
 - App Version: v9.3.10-Alpha - updated: 10/27/2026. [MM/DD/YYYY]
+- App Version: v9.4.11-Alpha - updated: 11/24/2026. [MM/DD/YYYY]
  
  <br>
  
